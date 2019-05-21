@@ -1,0 +1,21 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_KB
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_KB	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	begin	KEYWORD2
+	check	KEYWORD2
+	getNum	KEYWORD2
+	getChar	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	KEY_PRESS	LITERAL1
+	KEY_DOWN	LITERAL1
+	KEY_UP	LITERAL1
+	KB1	LITERAL1
+	KB2	LITERAL1
+	KB3	LITERAL1
+	KB4	LITERAL1
