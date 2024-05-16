@@ -2,7 +2,7 @@
 //	                                                 «KB2» (клавиатура 4x4) http://iarduino.ru/shop/Expansion-payments/klaviatura-4-x4-knopki-v2.html
 //	                                                 «KB3» (клавиатура 3x4) http://iarduino.ru/shop/Expansion-payments/elastichnaya-klaviatura-3x4-knopki.html
 //	                                                 «KB4» (клавиатура 1x4) http://iarduino.ru/shop/Expansion-payments/elastichnaya-klaviatura-4-knopki.html
-//  Версия: 1.0.0
+//  Версия: 1.0.1
 //  Последнюю версию библиотеки Вы можете скачать по ссылке: http://iarduino.ru/file/256.html
 //  Библиотека является собственностью интернет магазина iarduino.ru и может свободно использоваться и распространяться!
 //  При публикации устройств или скетчей с использованием данной библиотеки, как целиком, так и её частей,
